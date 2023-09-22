@@ -11,7 +11,7 @@
     "require": {
         "php": "^8.0|^7.4|^8.1",
         "ext-openssl": "*",
-        "cblink/laravel-dto": "^2.0",
+        "aimilink/laravel-dto": "^3.0",
         "hyperf/utils": "^2.2|^3.0",
         "hyperf/context": "^2.2|^3.0"
     },
