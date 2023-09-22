@@ -9,7 +9,7 @@ declare(strict_types=1);
  * @contact  group@hyperf.io
  * @license  https://github.com/hyperf/hyperf/blob/master/LICENSE
  */
-namespace Aimilink\HyperfExt;;
+namespace Aimilink\HyperfExt;
 
 use Aimilink\HyperfExt\Traits\ApiResponse;
 use Hyperf\Di\Annotation\Inject;
