@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Cblink\HyperfExt\Middleware;
+namespace Aimilink\HyperfExt\Middleware;
 
-use Cblink\HyperfExt\Traits\CorsTrait;
+use Aimilink\HyperfExt\Traits\CorsTrait;
 use Hyperf\Context\Context;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;

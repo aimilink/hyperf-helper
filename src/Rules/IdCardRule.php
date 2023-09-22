@@ -1,6 +1,6 @@
 <?php
 
-namespace Cblink\HyperfExt\Rules;
+namespace Aimilink\HyperfExt\Rules;
 
 use Hyperf\Validation\Contract\Rule;
 

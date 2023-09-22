@@ -1,6 +1,6 @@
 <?php
 
-namespace Cblink\HyperfExt\Rules;
+namespace Aimilink\HyperfExt\Rules;
 
 use Hyperf\Validation\Contract\Rule;
 
@@ -16,7 +16,7 @@ class MobileCodeRule implements Rule
         return in_array($value, ['86']);
     }
 
-    public function message()
+    public function message(): string
     {
         return '暂不支持的区号!';
     }

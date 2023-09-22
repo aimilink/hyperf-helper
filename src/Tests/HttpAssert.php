@@ -1,6 +1,6 @@
 <?php
 
-namespace Cblink\HyperfExt\Tests;
+namespace Aimilink\HyperfExt\Tests;
 
 use PHPUnit\Framework\Assert as PHPUnit;
 

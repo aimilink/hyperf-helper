@@ -1,8 +1,8 @@
 <?php
 
-namespace Cblink\HyperfExt;
+namespace Aimilink\HyperfExt;
 
-use Cblink\HyperfExt\Traits\ApiResponse;
+use Aimilink\HyperfExt\Traits\ApiResponse;
 use Hyperf\Resource\Json\JsonResource;
 use Psr\Http\Message\ResponseInterface;
 

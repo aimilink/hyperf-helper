@@ -1,6 +1,6 @@
 <?php
 
-namespace Cblink\HyperfExt\Rules;
+namespace Aimilink\HyperfExt\Rules;
 
 use Hyperf\Validation\Contract\Rule;
 
@@ -23,7 +23,7 @@ class MobileRule implements Rule
      *
      * @return string
      */
-    public function message()
+    public function message(): string
     {
         return '请输入有效的手机号!';
     }

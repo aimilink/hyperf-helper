@@ -1,9 +1,9 @@
 <?php
 
-namespace Cblink\HyperfExt\Tests;
+namespace Aimilink\HyperfExt\Tests;
 
-use Cblink\Hyperf\Yapi\Dto;
-use Cblink\Hyperf\Yapi\TestResponse as TestBaseResponse;
+use Aimilink\Hyperf\Yapi\Dto;
+use Aimilink\Hyperf\Yapi\TestResponse as TestBaseResponse;
 
 class TestResponse extends TestBaseResponse
 {

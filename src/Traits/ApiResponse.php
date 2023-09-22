@@ -1,6 +1,6 @@
 <?php
 
-namespace Cblink\HyperfExt\Traits;
+namespace Aimilink\HyperfExt\Traits;
 
 use Hyperf\HttpMessage\Stream\SwooleStream;
 use Hyperf\Utils\Codec\Json;

@@ -1,11 +1,11 @@
 {
-    "name": "cblink/hyperf-helper",
+    "name": "aimilink/hyperf-helper",
     "description": "Package description here.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Nick",
-            "email": "me@xieying.vip"
+            "name": "sunny5156",
+            "email": "sunny5156@qq.com"
         }
     ],
     "require": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cblink\\HyperfExt\\": "src"
+            "Aimilink\\HyperfExt\\": "src"
         },
         "files": [
             "helpers.php"

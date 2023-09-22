@@ -1,8 +1,8 @@
 <?php
 
-namespace Cblink\HyperfExt;
+namespace Aimilink\HyperfExt;
 
-use Cblink\Dto\Dto as BaseDto;
+use Aimilink\Dto\Dto as BaseDto;
 use Hyperf\HttpServer\Contract\RequestInterface;
 
 abstract class Dto extends BaseDto

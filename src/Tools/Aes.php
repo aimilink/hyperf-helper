@@ -1,6 +1,6 @@
 <?php
 
-namespace Cblink\HyperfExt\Tools;
+namespace Aimilink\HyperfExt\Tools;
 
 use InvalidArgumentException;
 

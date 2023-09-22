@@ -9,9 +9,9 @@ declare(strict_types=1);
  * @contact  group@hyperf.io
  * @license  https://github.com/hyperf/hyperf/blob/master/LICENSE
  */
-namespace Cblink\HyperfExt;;
+namespace Aimilink\HyperfExt;;
 
-use Cblink\HyperfExt\Traits\ApiResponse;
+use Aimilink\HyperfExt\Traits\ApiResponse;
 use Hyperf\Di\Annotation\Inject;
 use Hyperf\HttpServer\Contract\RequestInterface;
 use Hyperf\HttpServer\Contract\ResponseInterface;
